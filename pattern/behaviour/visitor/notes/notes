@@ -1,0 +1,19 @@
+Visitor pattern
+
+Separate algorithm from object
+    - there can be requirement of changes in algorithm or object
+Adding new features
+maintain open/close principles
+visitor changes
+
+Design
+-> application has "Elements" that are expected to changes.
+Interface based
+visitor and elements
+Element have visit method
+visitor knows every element
+General classes: visitor,Concrete visitor, Element, ConcreteVisitor
+
+
+
+

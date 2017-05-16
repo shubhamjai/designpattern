@@ -1,0 +1,12 @@
+AbstractFactory: CreditCardFactory
+
+Types of AbstractFactoryConcrete factories
+
+1. VisaFactory
+2. AmexFactory
+
+Visa card types:
+1. VisaGoldCreditCard
+2. VisaPlatiniumCreditCard
+
+
